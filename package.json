@@ -1,0 +1,11 @@
+{
+  "name": "vue3-icon-lite",
+  "version": "1.0.0",
+  "dependencies": {
+    "axios": "^1.6.2",
+    "vue": "^3.3.12"
+  },
+  "scripts": {
+    "build": "vue-cli-service build --target lib --name my-icon src/Icon.vue"
+  }
+}
